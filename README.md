@@ -1,23 +1,22 @@
-<h1> 👋 Hi, I'm Arianna Salvini  
+<h1> 👋 Hi, I'm Arianna Salvini</h1>
+<h2> 💻 Full-Stack Web Developer in progress
  <a href="https://linkedin.com/in/arianna-salvini-b2a0b685" target="blank">
    <img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arianna-salvini-b2a0b685/" height="30" width="40" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
  </a> 
-</h1>
+</h2>
 
-<h2>Jr Full-Stack Web Developer</h2>
 
-👋 Hello again, I’m Arianna Salvini, a Jr Full-Stack Web Developer with a background in photography. I’m excited to leverage my technical skills and aesthetic sensitivity to tackle stimulating and innovative projects. My photography experience has taught me to pay attention to detail and manage complex projects, skills I apply in web development to create functional and well-structured solutions with a strong focus on visual appeal and user experience.
-<p></p>
+<p align="center">I'm a Jr Full-Stack Web Developer with a background in photography. I’m excited to leverage my technical skills and aesthetic sensitivity to tackle stimulating and innovative projects. My photography experience has taught me to pay attention to detail and manage complex projects, skills I apply in web development to create functional and well-structured solutions with a strong focus on visual appeal and user experience.</p>
 
 <br><br>
 
 <p align="center">
   <a href="https://quira.sh?utm_source=widgets&utm_campaign=Arianna-Salvini">
-    <img src="https://stats.quira.sh/Arianna-Salvini/github?theme=dark" alt="Arianna-Salvini's GitHub | Stats" height="170"/>
+    <img src="https://stats.quira.sh/Arianna-Salvini/github?theme=dark" alt="Arianna-Salvini's GitHub | Stats" height="210"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://quira.sh?utm_source=widgets&utm_campaign=Arianna-Salvini">
-    <img src="https://stats.quira.sh/Arianna-Salvini/languages-over-time?theme=dark" alt="Arianna-Salvini's GitHub | Languages Over Time" height="170"/>
+    <img src="https://stats.quira.sh/Arianna-Salvini/languages-over-time?theme=dark" alt="Arianna-Salvini's GitHub | Languages Over Time" height="210"/>
   </a>
 </p>
 
@@ -76,13 +75,5 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
-  </a>
-</p>
-
-**Connect with me:**
-
-<p align="center">
-  <a href="https://linkedin.com/in/arianna-salvini-b2a0b685" target="blank">
-    <img src="https://simpleicons.org/icons/linkedin.svg" alt="LinkedIn" height="30" width="120" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
   </a>
 </p>
