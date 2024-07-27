@@ -13,11 +13,11 @@
 
 <p align="center">
   <a href="https://quira.sh?utm_source=widgets&utm_campaign=Arianna-Salvini">
-    <img src="https://stats.quira.sh/Arianna-Salvini/github?theme=dark" alt="Arianna-Salvini's GitHub | Stats" height="270"/>
+    <img src="https://stats.quira.sh/Arianna-Salvini/github?theme=dark" alt="Arianna-Salvini's GitHub | Stats" height="170"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://quira.sh?utm_source=widgets&utm_campaign=Arianna-Salvini">
-    <img src="https://stats.quira.sh/Arianna-Salvini/languages-over-time?theme=dark" alt="Arianna-Salvini's GitHub | Languages Over Time" height="270"/>
+    <img src="https://stats.quira.sh/Arianna-Salvini/languages-over-time?theme=dark" alt="Arianna-Salvini's GitHub | Languages Over Time" height="170"/>
   </a>
 </p>
 
@@ -78,8 +78,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;"/>
   </a>
 </p>
-
-<br><br>
 
 **Connect with me:**
 
