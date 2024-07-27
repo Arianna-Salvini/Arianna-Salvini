@@ -6,7 +6,7 @@
 </h2>
 
 
-<p align="center">I'm a Jr Full-Stack Web Developer with a background in photography. I’m excited to leverage my technical skills and aesthetic sensitivity to tackle stimulating and innovative projects. My photography experience has taught me to pay attention to detail and manage complex projects, skills I apply in web development to create functional and well-structured solutions with a strong focus on visual appeal and user experience.</p>
+<p align="center">I'm a Jr Full-Stack Web Developer with a background in photography. I’m excited to leverage my technical skills and aesthetic sensitivity to tackle stimulating and innovative projects. My photography experience has taught me to pay attention to detail and manage complex projects which are skills I apply in web development to create functional and well-structured solutions with a strong focus on visual appeal and user experience.</p>
 
 <br><br>
 
